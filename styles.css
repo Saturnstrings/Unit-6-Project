@@ -1,0 +1,84 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    background-color: green;
+    font-weight: 800;
+    padding: 0 20px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+.Part-Two-Yes {
+    font-family: 'Coiny', cursive;
+  display: none;
+}
+
+
+.Part-Two-No {
+    font-family: 'Coiny', cursive;
+  display: none;
+}
+
+.Story-Ending-Yes {
+    font-family: 'Coiny', cursive;
+  display: none;
+}
+
+.Story-Ending-No {
+    font-family: 'Coiny', cursive;
+  display: none;
+}
+
+.forest-img {
+  width: 100px;
+    height: 100px;
+  display: none;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.forest2-img{
+  width: 100px;
+  height: 100px;
+  display: none;
+}
+
+.sad-face{
+  width: 100px;
+  height: 100px;
+  display: none;
+}
+
+.birds-and-trees{
+  width: 200px;
+  height: 100px;
+  display: none;
+}
